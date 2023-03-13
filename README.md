@@ -1,2 +1,3 @@
-# my-visit-site
-my visit site, for easier access to contact me
+(RU) Hi! This is my website project on github, which will be hosted also, on github where you can more easily contact me than looking me up on telegram, vk, tiktok or any similar apps. Of course you're looking at it on github, because the site is either still in the works or I left it public. (Translated using DeepL)
+
+(RU) Привет! Это мой проект сайта на гитхабе, который будет хоститься также, на гитхубе где ты можешь легче связаться со мной, чем искать меня в телеграме, ВК, тиктоке или в каких либо похожих приложениях. Конечно же, ты смотришь это на гитхабе, ведь сайт либо еще в заготовке, либо я оставил это публичным. 
